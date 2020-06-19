@@ -19,6 +19,7 @@ const query = graphql`
     }
   }
 `
+/// log time in puy
 const Jobs = () => {
   return <h2>jobs component</h2>
 }
